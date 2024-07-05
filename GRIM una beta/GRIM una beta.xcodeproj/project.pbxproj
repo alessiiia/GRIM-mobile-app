@@ -1,0 +1,580 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		B378AF582C7ECBAB0061D7AC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B378AF3B2C7ECBA80061D7AC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B378AF422C7ECBA80061D7AC;
+			remoteInfo = "GRIM una beta";
+		};
+		B378AF622C7ECBAB0061D7AC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B378AF3B2C7ECBA80061D7AC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B378AF422C7ECBA80061D7AC;
+			remoteInfo = "GRIM una beta";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B378AF432C7ECBA80061D7AC /* GRIM una beta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GRIM una beta.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B378AF572C7ECBAB0061D7AC /* GRIM una betaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GRIM una betaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B378AF612C7ECBAB0061D7AC /* GRIM una betaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GRIM una betaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B378AF692C7ECBAB0061D7AC /* Exceptions for "GRIM una beta" folder in "GRIM una beta" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = B378AF422C7ECBA80061D7AC /* GRIM una beta */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		B378AF452C7ECBA80061D7AC /* GRIM una beta */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B378AF692C7ECBAB0061D7AC /* Exceptions for "GRIM una beta" folder in "GRIM una beta" target */,
+			);
+			path = "GRIM una beta";
+			sourceTree = "<group>";
+		};
+		B378AF5A2C7ECBAB0061D7AC /* GRIM una betaTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "GRIM una betaTests";
+			sourceTree = "<group>";
+		};
+		B378AF642C7ECBAB0061D7AC /* GRIM una betaUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "GRIM una betaUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B378AF402C7ECBA80061D7AC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B378AF542C7ECBAB0061D7AC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B378AF5E2C7ECBAB0061D7AC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B378AF3A2C7ECBA80061D7AC = {
+			isa = PBXGroup;
+			children = (
+				B378AF452C7ECBA80061D7AC /* GRIM una beta */,
+				B378AF5A2C7ECBAB0061D7AC /* GRIM una betaTests */,
+				B378AF642C7ECBAB0061D7AC /* GRIM una betaUITests */,
+				B378AF442C7ECBA80061D7AC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B378AF442C7ECBA80061D7AC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B378AF432C7ECBA80061D7AC /* GRIM una beta.app */,
+				B378AF572C7ECBAB0061D7AC /* GRIM una betaTests.xctest */,
+				B378AF612C7ECBAB0061D7AC /* GRIM una betaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B378AF422C7ECBA80061D7AC /* GRIM una beta */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B378AF6A2C7ECBAB0061D7AC /* Build configuration list for PBXNativeTarget "GRIM una beta" */;
+			buildPhases = (
+				B378AF3F2C7ECBA80061D7AC /* Sources */,
+				B378AF402C7ECBA80061D7AC /* Frameworks */,
+				B378AF412C7ECBA80061D7AC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				B378AF452C7ECBA80061D7AC /* GRIM una beta */,
+			);
+			name = "GRIM una beta";
+			packageProductDependencies = (
+			);
+			productName = "GRIM una beta";
+			productReference = B378AF432C7ECBA80061D7AC /* GRIM una beta.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B378AF562C7ECBAB0061D7AC /* GRIM una betaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B378AF6F2C7ECBAB0061D7AC /* Build configuration list for PBXNativeTarget "GRIM una betaTests" */;
+			buildPhases = (
+				B378AF532C7ECBAB0061D7AC /* Sources */,
+				B378AF542C7ECBAB0061D7AC /* Frameworks */,
+				B378AF552C7ECBAB0061D7AC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B378AF592C7ECBAB0061D7AC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B378AF5A2C7ECBAB0061D7AC /* GRIM una betaTests */,
+			);
+			name = "GRIM una betaTests";
+			packageProductDependencies = (
+			);
+			productName = "GRIM una betaTests";
+			productReference = B378AF572C7ECBAB0061D7AC /* GRIM una betaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B378AF602C7ECBAB0061D7AC /* GRIM una betaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B378AF722C7ECBAB0061D7AC /* Build configuration list for PBXNativeTarget "GRIM una betaUITests" */;
+			buildPhases = (
+				B378AF5D2C7ECBAB0061D7AC /* Sources */,
+				B378AF5E2C7ECBAB0061D7AC /* Frameworks */,
+				B378AF5F2C7ECBAB0061D7AC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B378AF632C7ECBAB0061D7AC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B378AF642C7ECBAB0061D7AC /* GRIM una betaUITests */,
+			);
+			name = "GRIM una betaUITests";
+			packageProductDependencies = (
+			);
+			productName = "GRIM una betaUITests";
+			productReference = B378AF612C7ECBAB0061D7AC /* GRIM una betaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B378AF3B2C7ECBA80061D7AC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					B378AF422C7ECBA80061D7AC = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					B378AF562C7ECBAB0061D7AC = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = B378AF422C7ECBA80061D7AC;
+					};
+					B378AF602C7ECBAB0061D7AC = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = B378AF422C7ECBA80061D7AC;
+					};
+				};
+			};
+			buildConfigurationList = B378AF3E2C7ECBA80061D7AC /* Build configuration list for PBXProject "GRIM una beta" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B378AF3A2C7ECBA80061D7AC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = B378AF442C7ECBA80061D7AC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B378AF422C7ECBA80061D7AC /* GRIM una beta */,
+				B378AF562C7ECBAB0061D7AC /* GRIM una betaTests */,
+				B378AF602C7ECBAB0061D7AC /* GRIM una betaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B378AF412C7ECBA80061D7AC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B378AF552C7ECBAB0061D7AC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B378AF5F2C7ECBAB0061D7AC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B378AF3F2C7ECBA80061D7AC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B378AF532C7ECBAB0061D7AC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B378AF5D2C7ECBAB0061D7AC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B378AF592C7ECBAB0061D7AC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B378AF422C7ECBA80061D7AC /* GRIM una beta */;
+			targetProxy = B378AF582C7ECBAB0061D7AC /* PBXContainerItemProxy */;
+		};
+		B378AF632C7ECBAB0061D7AC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B378AF422C7ECBA80061D7AC /* GRIM una beta */;
+			targetProxy = B378AF622C7ECBAB0061D7AC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		B378AF6B2C7ECBAB0061D7AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "GRIM una beta/GRIM_una_beta.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"GRIM una beta/Preview Content\"";
+				DEVELOPMENT_TEAM = H7D5234YPH;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "GRIM una beta/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Claireity-consulting.GRIM-una-beta";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B378AF6C2C7ECBAB0061D7AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "GRIM una beta/GRIM_una_beta.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"GRIM una beta/Preview Content\"";
+				DEVELOPMENT_TEAM = H7D5234YPH;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "GRIM una beta/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Claireity-consulting.GRIM-una-beta";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		B378AF6D2C7ECBAB0061D7AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B378AF6E2C7ECBAB0061D7AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B378AF702C7ECBAB0061D7AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H7D5234YPH;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Claireity-consulting.GRIM-una-betaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GRIM una beta.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GRIM una beta";
+			};
+			name = Debug;
+		};
+		B378AF712C7ECBAB0061D7AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H7D5234YPH;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Claireity-consulting.GRIM-una-betaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GRIM una beta.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GRIM una beta";
+			};
+			name = Release;
+		};
+		B378AF732C7ECBAB0061D7AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H7D5234YPH;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Claireity-consulting.GRIM-una-betaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GRIM una beta";
+			};
+			name = Debug;
+		};
+		B378AF742C7ECBAB0061D7AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = H7D5234YPH;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Claireity-consulting.GRIM-una-betaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GRIM una beta";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B378AF3E2C7ECBA80061D7AC /* Build configuration list for PBXProject "GRIM una beta" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B378AF6D2C7ECBAB0061D7AC /* Debug */,
+				B378AF6E2C7ECBAB0061D7AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B378AF6A2C7ECBAB0061D7AC /* Build configuration list for PBXNativeTarget "GRIM una beta" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B378AF6B2C7ECBAB0061D7AC /* Debug */,
+				B378AF6C2C7ECBAB0061D7AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B378AF6F2C7ECBAB0061D7AC /* Build configuration list for PBXNativeTarget "GRIM una betaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B378AF702C7ECBAB0061D7AC /* Debug */,
+				B378AF712C7ECBAB0061D7AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B378AF722C7ECBAB0061D7AC /* Build configuration list for PBXNativeTarget "GRIM una betaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B378AF732C7ECBAB0061D7AC /* Debug */,
+				B378AF742C7ECBAB0061D7AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B378AF3B2C7ECBA80061D7AC /* Project object */;
+}
